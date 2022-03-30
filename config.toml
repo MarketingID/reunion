@@ -31,7 +31,7 @@ weight = 40
 [params]
 description = ""
 facebook = ""
-github = ""
+github = "github.com/jonathanjanssens/hugo-casper3"
 logo = "/images/hugo.png"
 mainSections = ["post"]
 twitter = ""
